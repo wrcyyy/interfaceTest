@@ -1,0 +1,19 @@
+dec: 登录页面相关接口
+parameters:
+  - url: /user/login
+    desc: "用户登录接口"
+    method: post
+    header: {
+      "Content-Type": "application/x-www-form-urlencoded"
+    }
+    data: { }
+    body: { }
+
+  - url: /user/logout
+    desc: 用户登出
+    method: get
+    header: {
+      "Content-Type": "application/json"
+    }
+    data: { }
+    body: { }

@@ -1,0 +1,6 @@
+server_conf:
+  host: www.baidu.com
+  protocol: https
+  username: wrcyyy@126.com
+  password: 123456
+  verify: true

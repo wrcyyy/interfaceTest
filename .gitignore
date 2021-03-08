@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# 自定义
+report
+.idea
 # C extensions
 *.so
 
